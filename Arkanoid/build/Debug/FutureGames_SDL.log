@@ -1,0 +1,46 @@
+﻿  ball.cpp
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(53,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(54,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,25): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,25): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,44): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,44): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,66): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,85): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(66,85): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(67,17): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(67,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(67,28): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(67,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,22): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,38): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,51): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,67): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\ball.cpp(79,67): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  block.cpp
+  circle.cpp
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(12,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(15,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(16,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(20,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(21,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(28,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(27,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(26,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\circle.cpp(25,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  collision.cpp
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\collision.cpp(11,27): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\collision.cpp(12,27): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\collision.cpp(18,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  engine.cpp
+  game.cpp
+  main.cpp
+  player.cpp
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\player.cpp(38,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\SDL\Arkanoid\src\player.cpp(39,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  FutureGames_SDL.vcxproj -> C:\My Files\School\VS Projects\SDL\Arkanoid\bin\Game_Debug.exe

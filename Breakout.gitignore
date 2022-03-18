@@ -1,0 +1,11 @@
+# .vs folder ugh
+.vs/
+
+# build files
+build/
+
+# bin files (output)
+bin/*
+
+# EXCEPT for the SDL .dlls
+!bin/*.dll
